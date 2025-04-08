@@ -7,7 +7,7 @@ Choc v2(Lofree Flow)に対応した15.5mm幅のキーキャップです。
 <img src = "https://github.com/user-attachments/assets/80769c43-aca7-4afa-85c0-a827572ab804" width = "600px"/>
 
 STLデータは[こちら](https://github.com/takashicompany/keycap/blob/master/zero8-slim-surface-mx/zero8-slim-surface-mx.stl)です。
-制作時のデータ(Blender)は[こちら](https://github.com/takashicompany/keycap/blob/master/zero8-slim-surface-mx/zero8-slim-surface-mx.blend)
+制作時のデータ(Blender)は[こちら](https://github.com/takashicompany/keycap/blob/master/zero8-slim-surface-mx/zero8-slim-surface-mx.blend)です。
 
 利用時の[ライセンス](https://github.com/takashicompany/keycap/blob/master/LICENSE)はこちらに記載しております。  
 (商用利用を検討されている方は[@takashicompany](x.com/takashicompany)までご連絡ください。)
